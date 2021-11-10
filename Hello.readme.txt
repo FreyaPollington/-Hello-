@@ -1,6 +1,2 @@
-ert
 "Hello!"
-
-wq
-:wq
-
+"TDS session 3"
